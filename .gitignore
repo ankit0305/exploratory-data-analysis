@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 nyc-taxi/.ipynb_checkpoints
 churn-prediction/.ipynb_checkpoints
+churn-prediction/churn_prediction.csv
+nyc-taxi/nyc_taxi_trip_duration.csv
